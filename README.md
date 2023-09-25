@@ -25,6 +25,3 @@
 <p/>
 
 ---
-<p align="center">
-  <img align="center" src="https://visitcount.itsvg.in/api?id=JuanIFerrando&icon=0&color=6"/>  
-<p/>
