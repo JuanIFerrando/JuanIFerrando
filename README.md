@@ -1,5 +1,8 @@
 <h1 align="center">Hi👋, I'm Juan Ignacio</h1>
 
+<!--   my-header-img -->
+![header_GitHub](https://github.com/JuanIFerrando/JuanIFerrando/assets/127761447/fbcef981-788d-4abd-a4dc-2fb708549f80)
+
 <h4 align="center">Full Stack Developer💻<h4/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ignacio-ferrando-b3b193273/) 
