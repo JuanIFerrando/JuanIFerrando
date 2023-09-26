@@ -5,9 +5,13 @@
 
 <h4 align="center">Full Stack Developer💻<h4/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ignacio-ferrando-b3b193273/) 
+📫 How to contact me:
 
-📫 How to contact me **teritojr@gmail.com**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ignacio-ferrando-b3b193273/) 
+  <div margin-left="30px">
+    <a href = "mailto:teritojr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%eaab00) 
@@ -17,6 +21,12 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
+# Featured projects 🚀
+- [GreenScreen🎬🍿](https://github.com/MoviesPf/MoviesFront)
+- [Countries✈🌍](https://github.com/JuanIFerrando/Proyecto_Individual)
+- [RickandMorty🛸🧪](https://github.com/JuanIFerrando/Integrador)
+
 # 📊 GitHub Stats:
   
  <p align="center">
@@ -26,5 +36,10 @@
 <p align="center">
   <img align="center"m src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanIFerrando&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>  
 <p/>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 ---
