@@ -29,7 +29,7 @@
 
 # 📊 GitHub Stats:
   
- <p align="center">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanIFerrando&theme=vision-friendly-dark&hide_border=false"/>  
 <p/>
 
