@@ -3,7 +3,7 @@
 <!--   my-header-img -->
 ![header_GitHub](https://github.com/JuanIFerrando/JuanIFerrando/assets/127761447/fbcef981-788d-4abd-a4dc-2fb708549f80)
 
-<h4 align="center">Full Stack Developer💻<h4/>
+<h4 align="center">FullStack Developer💻<h4/>
 
 📫 How to contact me:
 
@@ -22,7 +22,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-# Featured projects 🚀
+# 🚀 Featured projects:
 - [GreenScreen🎬🍿](https://github.com/MoviesPf/MoviesFront)
 - [Countries✈🌍](https://github.com/JuanIFerrando/Proyecto_Individual)
 - [RickandMorty🛸🧪](https://github.com/JuanIFerrando/Integrador)
